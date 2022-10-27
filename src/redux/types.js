@@ -1,0 +1,1 @@
+export const LOAD_CURRENCY = 'LOAD_CURRENCY'
